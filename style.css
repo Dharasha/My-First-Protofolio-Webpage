@@ -1,0 +1,60 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+body {
+  margin:0;
+  background-color: #faedcd;
+}
+section{
+  text-align: center;
+}
+div {
+  width: 250px;
+    margin: auto;
+  padding: 20px;
+}
+.darkbackground{/*class name is *background*/
+  background-color:#2b2d42;
+  color:white;
+ }
+  
+  .center-align{ 
+    text-align:center;
+  }
+
+h3,h6{/*Grouping CSS selectors*/
+  color:#fafafaff;
+font-family:cursive,sans-serif;
+}
+h4{     
+  color:#22223b;
+  }
+p{/*all paragraphds should be same*/
+  font-size:22px;
+  color:#540b0e;
+  font-family:centaur,arial,tahoma;
+  }
+ul{
+  font-size:19px;
+  color:#540b0e;
+}
+footer {/*footer styiling*/
+padding:7px;
+  text-align:center;
+  background:#2b2d42;
+  }
+ul::after {/*wanted to add an extra item & added because i also enjoy traveling*/
+  content: " oh! and not to mention i also enjoy traveling.";
+}
+hr {/*assing a style for the hortzontal rule*/
+  height: 2px;
+  background-color:#2b2d42;
+  border: 2px solid #faedcd;/* size style color */
+  margin-top:50px;
+  margin-bottom: 50px;
+}/*usig LOVEHATE*link,vistedhover and active*/
+a:link    { color: blue;  }
+a:visited { color: #ff1100;   }
+a:hover   { color: #b0bd00; }
+a:active  { color: #b500c2;  }
