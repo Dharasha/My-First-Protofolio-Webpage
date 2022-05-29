@@ -1,5 +1,6 @@
 # My-First-Protofolio-Webpage
 I am happy to share my first ever webpage as a beginner and i have enjoyed working with HTML codes and CSS files
+<img src="Dharaimage.jpg" width="300" alt="Dhara Profile picture">
 ## My Interets and my profession
 Hello Friends, I'm Dhara
 I am a Relationship Banker from Dallas Texas
