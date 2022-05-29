@@ -17,6 +17,6 @@ Have always been a team player and lookward to working with other web developers
 * https://github.com/Dharasha
 * https://www.linkedin.com/in/dhara-shah-473a10109/
 ###
-Fianlly big thanks to Thinkful and Replit to enable my learing journey,challenges i faced during think project was organizing my Page with dividers and section and it all worked out thanks to Thinkful.
+Fianlly big thanks to Thinkful and Replit to enable my learing journey,challenges i faced during think project was organizing my Page in HTML with dividers and section but it all worked out thanks to Thinkful.
 ### 
 This project is created by Dhara shah, May 29th 2022
